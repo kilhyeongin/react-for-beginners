@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/kilhyeongin/react-for-beginners/static/js/main.3297f3b7.js",
+    "main.js": "/kilhyeongin/react-for-beginners/static/js/main.d89388e2.js",
     "index.html": "/kilhyeongin/react-for-beginners/index.html",
-    "main.3297f3b7.js.map": "/kilhyeongin/react-for-beginners/static/js/main.3297f3b7.js.map"
+    "main.d89388e2.js.map": "/kilhyeongin/react-for-beginners/static/js/main.d89388e2.js.map"
   },
   "entrypoints": [
-    "static/js/main.3297f3b7.js"
+    "static/js/main.d89388e2.js"
   ]
 }
